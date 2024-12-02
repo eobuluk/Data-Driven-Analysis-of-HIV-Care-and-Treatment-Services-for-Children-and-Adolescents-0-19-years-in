@@ -1,0 +1,1166 @@
+﻿District,Site,Sex,Age,AgeCat,current_art_regimen_line,Current ART Regimen,Optimization,DTG Based,VL Updated_,VL Suppression,VL updated (Y/N/NE),If not up-to-date VL state sample collection date,Substituted to optimal regimen (Y/N/NE),Switched to 2nd line (Y/N/NE),"No. of IACs received i.e none, 1,2, 3, 4, 5, 6  ",IAC ,If completed 3 IAC sessions. State date of HIVDRT sampling ,TPT                        1-Never initiated         2-On INH        3-Defaulted        4-Stopped due to SE        5- Completed,MMD (Months of ART refill at last visit),mmdmonths,MMD Received,Screened for OVC,Eligible and Enrolled in OVC
+Ibanda,Kikyekye HC IV,M,0,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,NE,Not Eligible,,,,,,,,Never Initiated,N,2,1 Month,Not screened,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,3,1-9yrs,1ST,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,NE,Not Eligible,No,,,,,,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,0,1-9yrs,1ST,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,NE,Not Eligible,No,,,,,,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,1,1-9yrs,1ST,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,NE,Not Eligible,No,,,,,,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,3,1-9yrs,1ST,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,NE,Not Eligible,No,,,,,,,Never Initiated,1,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,F,10,10-19yrs,1ST,ABC-3TC-LPV/r,Opt,No,NE,Not Eligible,Not Eligible,,,,,,,On INH,30,2,1 Month,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,8,1-9yrs,1ST,ABC-3TC-LPV/r,Opt,No,NE,Not Eligible,Not Eligible,,,,,,,On INH,15,0,1 Month,Not screened,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,4,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,NE,Not Eligible,Not Eligible,,,,,,,On INH,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,5,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,NE,Not Eligible,Not Eligible,,,,,,,On INH,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ishongororo HC IV,F,4,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,NE,Not Eligible,Not Eligible,,Y,,,,,Never Initiated,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,1,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,NE,Not Eligible,Not Eligible,,Y,,,,,Never Initiated,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Rubirizi,Katereta HC III,M,11,10-19yrs,,ABC-3TC-LPV/r,Opt,No,NE,Not Eligible,,,,,,,,Completed,60,2,2 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,4,1-9yrs,,ABC-3TC-LPV/r,Opt,No,NE,Not Eligible,,,,,,,,Never Initiated,28,0,1 Month,Not screened,NOT ENROLLED
+Rukiga,Kamwezi HC IV,F,1,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,NE,Not Eligible,Not Eligible,,,,,,,,30,1,1 Month,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,12,10-19yrs,1,ABC/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,y,,,,,Never Initiated,60,2,1 Month,Not screened,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,12,10-19yrs,1,ABC/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,y,,,,,Never Initiated,60,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,11,10-19yrs,2ND,ABC/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,Y,NE,,,,On INH,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kambuga HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,NE,Not Eligible,No,,,,,,,,2,2,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Bufunda HC III,F,18,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,Never Initiated,60,2,2 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,Never Initiated,60,2,2 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,18,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,Never Initiated,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,F,18,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,Never Initiated,30,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,Never Initiated,30,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,16,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,Y,,,,,Never Initiated,30,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,On INH,60,2,2 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,18,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,On INH,60,2,2 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,13,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,Never Initiated,30,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,19/05/2021,,,,,,Never Initiated,30,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,18,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,Never Initiated,15,0,1 Month,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,Never Initiated,16,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,On INH,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,,15,0,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ishongororo HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,Y,,,,,Never Initiated,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,Y,,,,,Never Initiated,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Kikyekye HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,,,,,,,,Completed,,2,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,,,,,,,,On INH,,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,,,,,,,,Never Initiated,,2,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,,,,,,,,Never Initiated,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,,,,,,,,Never Initiated,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Ibanda Hosp,M,11,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,y,,,,,Never Initiated,60,2,1 Month,Not screened,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,18,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,y,,,,,Never Initiated,15,0,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,18,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,y,,,,,Never Initiated,30,0,1 Month,Not screened,NOT ENROLLED
+Ibanda,Ibanda Hosp,M,11,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,y,,,,,Never Initiated,60,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,14,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,y,,,,,Never Initiated,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,19,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,y,,,,,Completed,,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,19,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,y,,,,,Never Initiated,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,18,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,No,,,,,,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,No,,,,,,,Never Initiated,4,3,3 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,No,,,,,,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,No,,,,,,,Never Initiated,3,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,No,,,,,,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Rubirizi,Rugazi HC IV,M,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,Never Initiated,4,4,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,Never Initiated,2,2,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,Never Initiated,1,1,1 Month,Not screened,Never linked
+Rubirizi,Katereta HC III,F,18,10-19yrs,,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,,,,,,,,,90,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,19,10-19yrs,,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,,,,,,,,,30,2,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,11,10-19yrs,,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,,,,,,,,,30,1,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,19,10-19yrs,,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,,,,,,,,,30,1,1 Month,Not screened,NOT ENROLLED
+Rukiga,Kamwezi HC IV,M,13,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,Not Eligible,,,,,,,On INH,60,2,2 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,No,,Y,,,,,,1,1,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,No,,Y,,,,,,1,1,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,No,,Y,,,,,,1,1,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,No,,Y,,,,,,1,1,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kambuga HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,No,,,,,,,Never Initiated,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,No,,,,,,,,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,NE,Not Eligible,No,,,,,,,On INH,1,1,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,2,1-9yrs,,,,No,NE,Not Eligible,,,,,,,,,,0,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,9,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,,,,,,Completed,,3,2 Months,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,4,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,,,,,,,N,0,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,5,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,,,,,,Completed,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,4,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,,,,,,Completed,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,5,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,,,,,,Completed,N,0,1 Month,Not screened,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,7,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,None suppressed,No,,,,3,Yes,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,7,1-9yrs,1ST,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,None suppressed,No,,,,5,Yes,,On INH,3,2,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,8,1-9yrs,1ST,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,No,,,,,,,Never Initiated,1,2,2 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,6,1-9yrs,1ST,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,No,,,,,,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,3,1-9yrs,1ST,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,None suppressed,No,,,,,No,,On INH,1,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Isingiro,Rugaaga HC IV,F,2,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,,,,,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,2,1-9yrs,1ST,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,None suppressed,No,,,,,No,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,1,1-9yrs,1ST,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,None suppressed,No,,,,,No,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,6,1-9yrs,1ST,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,None suppressed,No,,,,2,Yes,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,2,1-9yrs,1ST,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,None suppressed,No,,,,,No,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,2,1-9yrs,1ST,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,None suppressed,No,,,,,No,,Never Initiated,2,2,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,8,1-9yrs,1ST,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,None suppressed,No,,,,,No,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Rukiga,Bukinda HC III,F,10,10-19yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,Y,Y,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,3,1-9yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,No,08/06/2021,Y,NE,,,,Never Initiated,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,14,10-19yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,No,08/05/2021,Y,Y,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,10,10-19yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,9,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,Y,N,2,Yes,,Never Initiated,1480,1480,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,10,10-19yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,Y,N,2,Yes,,Never Initiated,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,8,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,9,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,Y,N,2,Yes,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,6,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,9,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,None suppressed,Yes,,Y,N,,No,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,4,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,None suppressed,,,Y,N,,No,,,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Kanungu,Kanungu HC IV,M,10,10-19yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,No,,Y,N,,,,Never Initiated,3,3,3 Months,Screened and Eligible,NOT ENROLLED
+Kanungu,Kanungu HC IV,M,10,10-19yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,Y,N,,,,,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,5,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,Y,N,,,,Never Initiated,3,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,5,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,Y,N,2,Yes,,Never Initiated,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,1,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,Y,N,3,Yes,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,7,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,Suppressed,Yes,,Y,N,2,Yes,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,6,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Not updated,None suppressed,,,Y,N,2,Yes,,,3,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ibanda Hosp,M,16,10-19yrs,2,ABC-3TC-ATV/r,Opt,No,Not updated,Suppressed,No,,Y,2,,,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kambuga HC IV,F,17,10-19yrs,2nd,ABC-3TC-ATV/r,Opt,No,Not updated,Suppressed,No,,,,,,,Completed,3,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,5,1-9yrs,1ST,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,28/04/2021,Y,,1,Yes,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,M,4,1-9yrs,1ST,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,07/04/2021,Y,,5,Yes,,On INH,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,F,6,1-9yrs,1ST,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,19/05/2021,Y,,,,,Completed,92,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,M,3,1-9yrs,1ST,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,28/04/2021,Y,,,,,Completed,92,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,F,5,1-9yrs,1ST,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,28/04/2021,Y,,,,,Completed,92,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,F,3,1-9yrs,1ST,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,05/05/2021,,,,,,Never Initiated,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,M,14,10-19yrs,1ST,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,17/06/2021,,,,No,,Never Initiated,60,2,1 Month,Not screened,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,1,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,11/05/2021,,,,No,,On INH,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ishongororo HC IV,F,8,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,11/06/2021,,,,,,Completed,120,4,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,8,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,,,,No,,Completed,60,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,5,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,17/06/2021,,,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,10,10-19yrs,2nd,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,7,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,7,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,5,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,10,10-19yrs,2nd,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,4,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,4,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,,No,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,5,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,Completed,60,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,6,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,7,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,3,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,10,10-19yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,,No,,On INH,60,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,0,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,0,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,,No,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,4,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,,No,,On INH,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,9,1-9yrs,2,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,y,y,,,,Completed,120,4,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,7,1-9yrs,2,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,Yes,21/05/2021,y,y,,,,Completed,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,4,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,Yes,16/06/2021,y,,,,,Completed,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,6,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,y,,,,,On INH,90,4,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,2,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,y,,,,,Completed,120,4,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,4,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,y,,,,,Completed,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,7,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rubirizi,Rugazi HC IV,M,19,10-19yrs,2nd,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,,,,No,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,15,10-19yrs,2nd,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,,,,No,,Never Initiated,1,1,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,7,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,Never Initiated,1,1,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,On INH,2,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,6,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,Never Initiated,1,1,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,4,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,,,,No,,Never Initiated,2,2,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,8,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,Never Initiated,3,3,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,7,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,Never Initiated,3,3,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,3,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,Never Initiated,3,3,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,10,10-19yrs,2nd,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,,,,No,,Never Initiated,1,1,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,6,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,,,,No,,Never Initiated,2,2,1 Month,Not screened,Never linked
+Rubirizi,Katereta HC III,M,5,1-9yrs,,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,Completed,60,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,8,1-9yrs,,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,,30,1,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,6,1-9yrs,,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,Completed,60,2,2 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,5,1-9yrs,,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,On INH,90,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,4,1-9yrs,,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,On INH,30,1,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,3,1-9yrs,,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,Completed,60,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,6,1-9yrs,,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,Completed,60,2,2 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,1,1-9yrs,,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,,,,No,,,180,2,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,6,1-9yrs,,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,,,,No,,Completed,45,2,2 Months,Not screened,NOT ENROLLED
+Rukiga,Kamwezi HC IV,M,9,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,19/05/2021,Y,,2,Yes,,Completed,90,3,2 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,9,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,,,,No,,Defaulted,30,1,1 Month,Not screened,NOT ENROLLED
+Rukiga,Kamwezi HC IV,F,3,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,Yes,,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,5,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,17/02/2021,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,2,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,17/02/2021,,,,No,,On INH,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,9,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,Yes,,,,,No,,On INH,90,3,2 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,2,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,Yes,,,,,No,,On INH,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,6,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,16/06/2021,,,,No,,Never Initiated,90,3,2 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,4,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,18/03/2021,,,,No,,On INH,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,2,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,Yes,,Y,,2,Yes,,On INH,30,1,1 Month,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,2,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,,,,,,No,,On INH,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,1,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,,,,,,No,,,30,1,1 Month,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,8,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,1,1,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,1,Yes,,,2,2,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,10,10-19yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,10,10-19yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,4,4,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,7,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,10,10-19yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,1,1,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,7,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,8,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,1,Yes,,,1,1,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,6,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,1,Yes,,,1,1,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,6,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,7,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,10,10-19yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,4,4,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,7,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,4,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,3,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,,No,,,2,2,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,4,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,2,2,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,6,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,1,Yes,,,1,1,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,8,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,2,2,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,3,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,2,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,,No,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,2,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,6,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,1,Yes,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,Y,,,No,,,1,1,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kambuga HC IV,M,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,,,,No,,Completed,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,3,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,4,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,Completed,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,5,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,Never Initiated,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,5,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,,2,2,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,7,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,Never Initiated,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,7,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,On INH,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,2,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,,,,No,,On INH,3,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,M,6,1-9yrs,2ND,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,Y,2,Yes,,Completed,30,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,M,6,1-9yrs,1ST,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,92,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,F,8,1-9yrs,1ST,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,92,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,M,10,10-19yrs,1ST,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,92,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,F,8,1-9yrs,1ST,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,On INH,34,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,F,8,1-9yrs,1ST,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,28/04/2021,Y,,,,,Completed,92,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,F,4,1-9yrs,1ST,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,01/06/2021,Y,,,,,Completed,30,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,04/05/2021,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,04/05/2021,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,04/05/2021,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ishongororo HC IV,M,6,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,Completed,30,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,60,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,07/06/2021,Y,,,,,Completed,60,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,60,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,13,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,08/06/2021,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,12,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,07/06/2021,Y,,,No,,Completed,60,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,12,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Kikyekye HC IV,F,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,3,Yes,,Completed,N,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Kikyekye HC IV,M,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,Completed,N,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Kikyekye HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,3,Yes,,Completed,N,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Kikyekye HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,Y,3,2 Months,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,N,0,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,13,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,,,,,,No,,On INH,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Ibanda Hosp,M,12,10-19yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,150,5,5 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,11,10-19yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,10,10-19yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Never Initiated,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,13,10-19yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,03/05/2021,y,,,,,Completed,60,2,1 Month,Not screened,NOT ENROLLED
+Ibanda,Ibanda Hosp,M,9,1-9yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,8,1-9yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,7,1-9yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,60,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,7,1-9yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,7,1-9yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Never Initiated,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,9,1-9yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,03/05/2021,y,,,,,Never Initiated,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,12,10-19yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,03/05/2021,y,N,,,,Never Initiated,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,9,1-9yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,60,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Isingiro,Rugaaga HC IV,M,5,1-9yrs,1ST,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,4,Yes,,Never Initiated,4,3,2 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,6,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,12,10-19yrs,1ST,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,On INH,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,8,1-9yrs,1ST,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,2,3,2 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,10,10-19yrs,1ST,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Rubirizi,Rugazi HC IV,F,13,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,3,3,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,6,4,4 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,4,5,5 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,2,2,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,13,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,6,6,6+ Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,3,3,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,3,3,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,13,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,2,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,2,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,12,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,2,6,6+ Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,16,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,12,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,6,5,5 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,2,1,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,6,6,6+ Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,6,6,6+ Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,6,4,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,3,4,3 Months,Not screened,Never linked
+Rubirizi,Katereta HC III,F,10,10-19yrs,,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,,90,4,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,10,10-19yrs,,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,,90,4,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,9,1-9yrs,,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,On INH,90,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,9,1-9yrs,,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,,90,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,12,10-19yrs,,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,90,4,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,10,10-19yrs,,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,,60,2,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,9,1-9yrs,,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,90,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,9,1-9yrs,,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,,90,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,6,1-9yrs,,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,90,4,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,11,10-19yrs,,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,30,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,9,1-9yrs,,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,On INH,90,3,3 Months,Not screened,NOT ENROLLED
+Rukiga,Kamwezi HC IV,F,9,1-9yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,10,10-19yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,14/04/2021,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,11,10-19yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,10,10-19yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,17/02/2021,,,,No,,On INH,90,3,2 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,10,10-19yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,7,1-9yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,10,10-19yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,30,1,1 Month,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,10,10-19yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,Completed,90,4,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,10,10-19yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,9,1-9yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,60,2,1 Month,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,10,10-19yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,9,1-9yrs,1,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,Y,N,3,Yes,,Never Initiated,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,Y,N,,,,Never Initiated,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,Y,N,,,,,3,3,2 Months,Screened and Eligible,NOT ENROLLED
+Kanungu,Kanungu HC IV,M,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,12,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,6,6,6+ Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,12,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,,2,2,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,,2,2,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kambuga HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,2,2,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,On INH,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,6,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Defaulted,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,6,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,5,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,,2,2,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,12,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,On INH,1,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,2,1-9yrs,2nd,AZT-3TC-ATV/r,Opt,No,Not updated,None suppressed,Yes,,,,3,Yes,,On INH,N,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,17,10-19yrs,2,AZT-3TC-ATV/r,Opt,No,Not updated,Suppressed,No,,N,,,,,Completed,120,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,17,10-19yrs,1,AZT-3TC-ATV/r,Opt,No,Not updated,Suppressed,No,,N,,,,,Never Initiated,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Isingiro,Rugaaga HC IV,F,13,10-19yrs,2nd,AZT-3TC-ATV/r,Opt,No,Not updated,None suppressed,No,,,,2,Yes,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,14,10-19yrs,1,AZT-3TC-EFV,Not Opt,No,Not updated,None suppressed,No,,N,,,No,,Completed,180,6,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,15,10-19yrs,2nd,AZT-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,Y,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rubirizi,Rugazi HC IV,M,13,10-19yrs,2nd,AZT-3TC-LPV/r,Opt,No,Not updated,Suppressed,Yes,,,,,,,Completed,2,2,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,5,1-9yrs,2nd,AZT-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,Never Initiated,6,6,6+ Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,12,10-19yrs,1st,AZT-3TC-NVP,Not Opt,No,Not updated,None suppressed,No,,,,,No,,Never Initiated,2,1,1 Month,Screened and Eligible,Never linked
+Ibanda,Bufunda HC III,M,8,1-9yrs,2ND,AZT/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,07/04/2021,,Y,3,Yes,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,M,2,1-9yrs,2ND,AZT/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,Y,,No,,On INH,42,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,M,7,1-9yrs,2ND,AZT/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,07/04/2021,,Y,5,Yes,,On INH,30,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Ishongororo HC IV,M,5,1-9yrs,1st,AZT/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,M,5,1-9yrs,2ND,AZT/3TC/RAL,Opt,No,Not updated,None suppressed,No,,,Y,,No,,Completed,92,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,17,10-19yrs,2,TDF-3TC-ATV/r,Opt,No,Not updated,None suppressed,No,,Y,,,No,,Completed,120,4,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kambuga HC IV,F,17,10-19yrs,2nd,TDF-3TC-ATV/r,Opt,No,Not updated,Suppressed,No,,,,,,,Completed,3,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Ishongororo HC IV,F,19,10-19yrs,1st,TDF-3TC-EFV,Not Opt,No,Not updated,None suppressed,No,,N,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,19,10-19yrs,1st,TDF-3TC-EFV,Not Opt,No,Not updated,Suppressed,No,,N,,,,,Completed,60,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,19,10-19yrs,1st,TDF-3TC-EFV,Not Opt,No,Not updated,None suppressed,No,,N,,,No,,On INH,60,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Kikyekye HC IV,F,19,10-19yrs,1st,TDF-3TC-EFV,Not Opt,No,Not updated,None suppressed,,,,,,No,,Completed,,2,1 Month,Not screened,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,19,10-19yrs,1,TDF-3TC-EFV,Not Opt,No,Not updated,Suppressed,No,,N,,,,,Completed,60,2,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,17,10-19yrs,1,TDF-3TC-EFV,Not Opt,No,Not updated,None suppressed,No,,N,,,No,,Never Initiated,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Isingiro,Rugaaga HC IV,F,19,10-19yrs,1ST,TDF-3TC-EFV,Not Opt,No,Not updated,Suppressed,No,,,,,,,Completed,3,4,3 Months,Screened and Eligible,NOT ENROLLED
+Rubirizi,Rugazi HC IV,F,18,10-19yrs,1st,TDF-3TC-EFV,Not Opt,No,Not updated,None suppressed,No,,,,,No,,Never Initiated,3,5,5 Months,Not screened,Never linked
+Ibanda,Ishongororo HC IV,M,18,10-19yrs,2nd,TDF-3TC-LPV/r,Opt,No,Not updated,None suppressed,No,,,Y,,No,,Completed,150,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,16,10-19yrs,2,TDF-3TC-LPV/r,Opt,No,Not updated,Suppressed,Yes,20/05/2021,Y,Y,,,,Completed,60,4,4 Months,Not screened,NOT ENROLLED
+Rubirizi,Rugazi HC IV,F,18,10-19yrs,2nd,TDF-3TC-LPV/r,Opt,No,Not updated,Suppressed,No,,,,,,,Completed,4,4,3 Months,Not screened,Never linked
+Ibanda,Bufunda HC III,F,12,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,92,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,M,12,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,01/06/2021,Y,,,,,Completed,85,3,2 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,90,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,M,15,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,Completed,90,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,19/05/2021,Y,,,,,Completed,91,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,M,18,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,90,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,On INH,90,3,2 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,18,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,Completed,60,2,2 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,13,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,26/05/2021,,,,,,On INH,91,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,10,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,08/06/2021,Y,,,,,Never Initiated,30,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,18,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,36,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,M,16,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,90,3,2 Months,Not screened,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,06/05/2021,,,,No,,On INH,60,2,2 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,14/05/2021,,,,No,,On INH,60,2,2 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,08/06/2021,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,11/05/2021,,,,,,Completed,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,04/05/2021,,,,,,Completed,60,2,2 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,13,10-19yrs,2nd,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,14/05/2021,,,,,,Completed,90,3,2 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ishongororo HC IV,M,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,60,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,60,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,10/06/2021,Y,,,,,On INH,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,8,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,On INH,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,60,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,60,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,60,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,60,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,07/06/2021,Y,,,,,Completed,60,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,60,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,10/06/2021,Y,,,No,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,60,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,150,5,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,14/06/2021,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,Completed,60,4,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,On INH,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,Completed,60,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Kikyekye HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,3,Yes,,Completed,N,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Kikyekye HC IV,M,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,,,,,,,,Completed,,3,2 Months,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,On INH,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,3,Yes,,Completed,N,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Kikyekye HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,,3,2 Months,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,,3,2 Months,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,Y,7,6+ Months,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,Completed,,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Kikyekye HC IV,F,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,,2,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,,4,3 Months,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,,,,,,No,,On INH,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Ibanda Hosp,M,15,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,120,4,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,15,10-19yrs,2,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,21/05/2021,y,y,,,,Completed,120,4,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,18,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,120,4,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,15,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Never Initiated,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,13,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,12,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Never Initiated,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,11,10-19yrs,2,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,y,,,,Completed,120,4,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,16,10-19yrs,2,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,y,,,,Completed,180,6,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,16,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,120,4,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,13,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,12,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,15,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,27/05/2021,y,,,,,Completed,60,2,2 Months,Not screened,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,10,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,8,1-9yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,20/05/2021,y,,,,,Completed,120,4,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,11,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,11,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,10/06/2021,y,,,,,Completed,120,4,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,15,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,18,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,25/05/2021,y,,,,,Completed,180,6,6+ Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,18,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,120,4,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ibanda Hosp,M,15,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,10/06/2021,y,,,No,,On INH,14,4,3 Months,Not screened,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,19,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ibanda Hosp,M,15,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,14,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,60,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,13,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,y,,,,,Completed,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,14,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,y,,,No,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,12,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,y,,,No,,Never Initiated,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,15,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,y,,,No,,Completed,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Isingiro,Rugaaga HC IV,F,13,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,2,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Isingiro,Rugaaga HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Never Initiated,2,2,2 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Isingiro,Rugaaga HC IV,F,17,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,3,3,3 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,12,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,On INH,4,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Isingiro,Rugaaga HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Never Initiated,3,3,3 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,16,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,3,3,3 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,15,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,3,3,3 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,18,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,2,2,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,4,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Isingiro,Rugaaga HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,1,Yes,,On INH,2,2,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,2,2,2 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,9,1-9yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,3,3,2 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,On INH,2,3,3 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,11,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,1,2,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,14,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,3,3,3 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,12,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,2,1,1 Month,Screened and Eligible,NOT ENROLLED
+Rubirizi,Rugazi HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,9,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,2,2,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,2,6,6+ Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,6,6,6+ Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,On INH,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,2,1,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,6,6,6+ Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,On INH,6,6,6+ Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,On INH,6,5,5 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,6,6,6+ Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,3,3,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,1,1,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Never Initiated,4,3,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,On INH,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,2,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,2,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,3,3,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,On INH,2,2,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,3,3,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,3,4,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Never Initiated,2,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Not Eligible,,,,,No,,Never Initiated,1,1,1 Month,Not screened,Never linked
+Rubirizi,Katereta HC III,F,19,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,90,3,2 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,12,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,On INH,30,2,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,12,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,60,2,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,18,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,90,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,19,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,,30,2,2 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,18,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,,90,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,17,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,90,3,2 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,14,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,90,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,18,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,90,3,2 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,18,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,,30,1,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,18,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,,90,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,19,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,60,2,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,16,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,90,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,19,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,30,1,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,17,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,30,1,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,19,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,,60,2,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,15,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,,30,1,1 Month,Not screened,NOT ENROLLED
+Rukiga,Bukinda HC III,F,18,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,15/06/2021,Y,,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,14,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,30,137,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,16,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Completed,30,87,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,13,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,,,,,,Never Initiated,90,91,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,18,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,Y,NE,,,,Completed,60,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,NE,,No,,Never Initiated,30,175,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,18,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,17/05/2021,Y,NE,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,18,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,Y,NE,,,,On INH,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,12,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,14,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,13,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,Completed,150,5,4 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,14,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,27/04/2021,,,,No,,Completed,90,3,2 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,17,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,Y,,2,Yes,,Completed,30,1,1 Month,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,16,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,15,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,17,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,16,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,12,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,19,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,Completed,150,5,4 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,14,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,90,3,2 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,19,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,180,6,5 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,19,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,180,6,6+ Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,13,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,On INH,90,2,1 Month,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,13,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,90,3,2 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,13,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,2,Yes,,Completed,30,2,2 Months,SCREENED AND NOT ELIGIBLE,NOT ENROLLED
+Rukiga,Kamwezi HC IV,M,19,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,19,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,On INH,30,2,2 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,17,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,On INH,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,F,19,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,On INH,90,3,2 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,14,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,Completed,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,19,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,60,2,1 Month,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,17,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,On INH,90,3,3 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Rukiga,Kamwezi HC IV,M,16,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,Yes,,,,,No,,On INH,90,3,2 Months,SCREENED AND ELIGIBLE,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,29/04/2021,Y,N,2,Yes,,Completed,3,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,N,2,Yes,,Completed,2,2,1 Month,Screened and Eligible,NOT ENROLLED
+Kanungu,Kanungu HC IV,M,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,Y,N,3,Yes,,Completed,7,7,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,Y,N,2,Yes,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,17/02/2021,Y,N,,,,Completed,3,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,N,,,,,2,2,1 Month,Screened and Eligible,NOT ENROLLED
+Kanungu,Kanungu HC IV,F,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,Y,N,2,Yes,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,Y,N,2,Yes,,Completed,3,3,3 Months,Screened and Eligible,NOT ENROLLED
+Kanungu,Kanungu HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,06/05/2021,Y,N,2,Yes,,Never Initiated,3,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,9,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,Y,N,,,,Never Initiated,2,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,Yes,,Y,N,,,,Completed,4,4,4 Months,Screened and Eligible,NOT ENROLLED
+Kanungu,Kanungu HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,,,Y,N,2,Yes,,Completed,2,2,1 Month,Screened and Eligible,NOT ENROLLED
+Kanungu,Kanungu HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,,,Y,N,,No,,Completed,3,3,3 Months,Screened and Eligible,NOT ENROLLED
+Kanungu,Kihiihi HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,1,Yes,,,1,1,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,4,4,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,4,4,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,4,4,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,5,5,5 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,4,4,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,6,6,6+ Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,9,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,6,6,6+ Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,6,6,6+ Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,2,2,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,4,4,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,2,2,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,8,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,2,2,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,4,4,4 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,4,4,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,7,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,1,1,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,4,4,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,1,Yes,,,1,1,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,2,2,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,6,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,Y,,,,,,4,4,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,9,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,1,Yes,,,1,1,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,,1,1,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,,4,4,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,Y,,,No,,,4,4,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kambuga HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,9,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,2,2,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Completed,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,9,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,3,3,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,9,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,On INH,3,3,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,On INH,3,3,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,7,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,0,0,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,3,3,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,8,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,9,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,Completed,3,3,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,On INH,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,Suppressed,No,,,,,,,,3,3,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Not updated,None suppressed,No,,,,,No,,Never Initiated,1,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,4,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,N,0,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,6,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,1,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,4,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,N,1,1 Month,Not screened,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,4,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,None suppressed,Yes,,,,2,Yes,,Never Initiated,2,2,2 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,8,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,On INH,1,3,2 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,4,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,6,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Isingiro,Rugaaga HC IV,F,4,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,None suppressed,Yes,,,,1,Yes,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Rukiga,Bukinda HC III,F,9,1-9yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,8,1-9yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,60,103,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,12,10-19yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,30,154,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,11,10-19yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,Y,NE,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,11,10-19yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,120,79,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,10,10-19yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,90,99,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,8,1-9yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,25,91,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,14,10-19yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,None suppressed,Yes,,Y,NE,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,14,10-19yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,90,149,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,10,10-19yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,Y,NE,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,8,1-9yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,90,96,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,5,1-9yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,TOXICITY OR SIDE-EFFECTS,60,52,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,13,10-19yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,90,55,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,7,1-9yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,30,48,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,7,1-9yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,7,1-9yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,120,4,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,4,1-9yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,None suppressed,Yes,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,5,1-9yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,60,35,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,6,1-9yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,,,,,,Never Initiated,60,22,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,5,1-9yrs,2ND,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,Y,Y,,,,Never Initiated,30,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,7,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,10,10-19yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,Y,N,2,Yes,,Never Initiated,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,10,10-19yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,6,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,NOT ENROLLED
+Kanungu,Kanungu HC IV,M,9,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,Y,N,2,Yes,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,8,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,None suppressed,Yes,,Y,N,4,Yes,,Never Initiated,3,3,3 Months,Screened and Eligible,NOT ENROLLED
+Kanungu,Kanungu HC IV,F,6,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,9,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,3,1-9yrs,1st,Abacavir / Lamivudine / Lopinavir / Ritonavir,Opt,No,Updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,15,10-19yrs,2,ABC-3TC-ATV/r,Opt,No,Updated,Suppressed,Yes,,Y,2,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,19,10-19yrs,2nd,ABC-3TC-ATV/r,Opt,No,Updated,Suppressed,Yes,,N,Y,,,,,2,2,1 Month,Not screened,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,M,4,1-9yrs,1ST,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,Completed,92,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,M,6,1-9yrs,2ND,ABC-3TC-LPV/r,Opt,No,Updated,None suppressed,Yes,,,Y,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,M,3,1-9yrs,1ST,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,Completed,96,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,4,1-9yrs,1ST,ABC-3TC-LPV/r,Opt,No,Updated,None suppressed,Yes,,,,,No,,Completed,92,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ruhoko HC IV,F,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,13,10-19yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,4,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,3,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,5,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,7,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,2,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,None suppressed,Yes,,,,,No,,Completed,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,3,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,60,2,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,4,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,4,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,None suppressed,Yes,,,,,No,,Completed,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,2,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,On INH,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,60,2,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,7,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,,60,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,8,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,,60,2,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,6,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,6,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,120,4,4 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,10,10-19yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,,60,2,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,10,10-19yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,None suppressed,Yes,,,,,No,,Completed,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,5,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,3,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,None suppressed,Yes,,,,,No,,Completed,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ishongororo HC IV,M,4,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,None suppressed,Yes,,,,,No,,Completed,30,0,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,9,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,60,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,4,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,None suppressed,Yes,,,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,7,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,5,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,5,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,4,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,5,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,2,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,On INH,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,2,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,2,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,3,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,None suppressed,Yes,,Y,,,No,,On INH,60,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,4,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,11/05/2021,y,N,,,,Completed,180,6,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,4,1-9yrs,1,ABC-3TC-LPV/r,Opt,No,Updated,None suppressed,Yes,20/05/2021,y,,,No,,Never Initiated,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,9,1-9yrs,2,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,y,y,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rubirizi,Rugazi HC IV,F,12,10-19yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,6,5,5 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,8,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Never Initiated,3,3,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,5,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,5,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,2,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,7,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Never Initiated,6,6,6+ Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,5,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,4,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,11,10-19yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,2,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,6,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,2,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,3,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Never Initiated,1,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,8,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,None suppressed,Yes,,,,,No,,Never Initiated,2,2,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,7,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,6,6,5 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,11,10-19yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Never Initiated,1,1,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,1,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,3,1-9yrs,2nd,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,On INH,4,4,3 Months,Not screened,Never linked
+Rubirizi,Katereta HC III,F,5,1-9yrs,,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,,,,,,,,Completed,60,2,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,2,1-9yrs,,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,,,,,,,,Completed,135,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,2,1-9yrs,,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,,,,,,,,Completed,60,2,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kihiihi HC IV,M,15,10-19yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,10,10-19yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,,1,1,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,6,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,6,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,5,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,5,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,,2,2,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,8,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,5,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,2,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,,3,3,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kambuga HC IV,F,6,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,,,,,,,,Never Initiated,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,,,,,,,,Never Initiated,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,11,10-19yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,,,,,,,,,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,11,10-19yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,,,,,,,,Never Initiated,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,6,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,,,,,,,,,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,9,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,,,,,,,,Completed,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,7,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,,,,,,,,Completed,2,2,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,6,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,None suppressed,,,,,,No,,On INH,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,8,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,,,,,,,,,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,4,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,,,,,,,,Completed,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,3,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,None suppressed,,,,,,No,,,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,1,1-9yrs,1st,ABC-3TC-LPV/r,Opt,No,Updated,Suppressed,,,,,,,,On INH,1,1,1 Month,Not screened,NOT ENROLLED
+Rukiga,Bukinda HC III,F,12,10-19yrs,2ND,ABC/3TC/ATV/R,Opt,No,Updated,None suppressed,Yes,,Y,Y,2,Yes,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,M,8,1-9yrs,1ST,ABC/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,04/06/2021,Y,,,No,,Completed,30,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,11,10-19yrs,1ST,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,92,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,6,1-9yrs,1ST,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,92,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ruhoko HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,60,2,2 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,On INH,60,2,2 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,On INH,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,6,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ishongororo HC IV,F,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,6,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,60,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,12,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,Y,,,No,,Completed,60,2,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Kikyekye HC IV,M,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,,3,2 Months,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Not Eligible ,Yes,,,,,,,Completed,,3,2 Months,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,,,2,Yes,,Completed,N,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Kikyekye HC IV,M,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,,,3,Yes,,Completed,N,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Kikyekye HC IV,M,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,12,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,,,2,Yes,,Completed,N,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,11,10-19yrs,1,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,14/05/2021,y,,,,,Completed,150,5,5 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,9,1-9yrs,2,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,y,y,,,,Completed,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,10,10-19yrs,2,ABC/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,y,y,,No,,Completed,120,4,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,8,1-9yrs,1,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,y,,,,,Completed,60,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,8,1-9yrs,2,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,y,y,,,,Completed,180,6,5 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,10,10-19yrs,1,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,20/05/2021,y,,,,,Completed,150,5,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,8,1-9yrs,2,ABC/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,y,y,,No,,Completed,60,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,7,1-9yrs,1,ABC/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,y,,,No,,Completed,120,6,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,7,1-9yrs,1,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,y,,,,,Completed,180,6,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,8,1-9yrs,1,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,21/05/2021,y,,,,,Never Initiated,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,7,1-9yrs,1,ABC/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,21/05/2021,y,,,No,,Never Initiated,90,5,5 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,8,1-9yrs,1,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Isingiro,Rugaaga HC IV,F,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,2,2 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,1,3,2 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,On INH,2,2,2 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,1,2,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,1,3,3 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,3,3 Months,Screened and Eligible,NOT ENROLLED
+Rubirizi,Rugazi HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,6,5,5 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,3,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,16,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,On INH,3,0,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,12,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,On INH,2,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,3,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,4,4,4 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,4,4,4 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,6,6,5 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,3,3,2 Months,Screened and not eligible,Never linked
+Rubirizi,Rugazi HC IV,M,12,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,3,3,2 Months,Screened and not eligible,Never linked
+Rubirizi,Rugazi HC IV,M,14,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,,,,No,,Never Initiated,2,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,4,6,5 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,6,5,5 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,On INH,6,6,6+ Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,6,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,1,1 Month,Screened and not eligible,Never linked
+Rubirizi,Rugazi HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,1,1,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,5,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,5,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,2,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,,,,No,,Never Initiated,2,2,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,6,5,5 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,6,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,4,4,4 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,5,5,5 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,2,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,4,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,6,4,4 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,6,5,4 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,4,4,4 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,6,6,5 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,12,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,4,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,4,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,3,3,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,1,1 Month,Screened and not eligible,Eligible Linked and Enrolled
+Rubirizi,Rugazi HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,,,,No,,Never Initiated,2,2,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,On INH,2,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,12,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,14,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,2,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,4,6,5 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,,,,No,,Never Initiated,4,3,2 Months,Not screened,Never linked
+Rubirizi,Katereta HC III,F,5,1-9yrs,,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,,90,3,2 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,9,1-9yrs,,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,90,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,9,1-9yrs,,ABC/3TC/DTG,Opt,Yes,Updated,None suppressed,,,,,,No,,Completed,30,1,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,10,10-19yrs,,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,,60,2,2 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,11,10-19yrs,,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,90,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,11,10-19yrs,,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,60,2,2 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,10,10-19yrs,,ABC/3TC/DTG,Opt,Yes,Updated,None suppressed,,,,,,No,,On INH,30,1,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,13,10-19yrs,,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,On INH,90,3,3 Months,Not screened,NOT ENROLLED
+Rukiga,Bukinda HC III,F,15,10-19yrs,1ST,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,TOXICITY OR SIDE-EFFECTS,90,168,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,15,10-19yrs,1ST,ABC/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,,,,No,,Completed,120,116,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,15,10-19yrs,1ST,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,168,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,12,10-19yrs,2ND,ABC/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,Y,NE,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,12,10-19yrs,2ND,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,NE,,,,Completed,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,11,10-19yrs,1ST,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,88,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,12,10-19yrs,1ST,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,90,78,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,12,10-19yrs,2ND,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,NE,,,,Never Initiated,120,4,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,12,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,2,Yes,,Never Initiated,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,,,,Never Initiated,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kambuga HC IV,F,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,11,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,6,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,2,2,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,8,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Never Initiated,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,5,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,3,3,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,7,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,,3,3,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,4,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,9,1-9yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,10,10-19yrs,1st,ABC/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,2,2,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,15,10-19yrs,2nd,AZT-3TC-ATV/r,Opt,No,Updated,None suppressed,Yes,,,,3,Yes,,Completed,N,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,16,10-19yrs,2ND,AZT-3TC-ATV/r,Opt,No,Updated,None suppressed,Yes,,Y,NE,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,11,10-19yrs,2ND,AZT-3TC-LPV/r,Opt,No,Updated,Suppressed,Yes,,Y,NE,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ruhoko HC IV,M,5,1-9yrs,1st,AZT-3TC-RAL,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,30,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Bufunda HC III,M,6,1-9yrs,2ND,AZT/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,Y,,,,Completed,85,3,2 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,M,6,1-9yrs,2ND,AZT/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,Y,,,,On INH,82,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ruhoko HC IV,M,9,1-9yrs,1st,AZT/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,10,10-19yrs,1st,AZT/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,9,1-9yrs,1st,AZT/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,On INH,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,13,10-19yrs,2nd,AZT/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,16,10-19yrs,2nd,AZT/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,16,10-19yrs,2nd,AZT/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,8,1-9yrs,2nd,AZT/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ishongororo HC IV,M,6,1-9yrs,1st,AZT/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Rubirizi,Rugazi HC IV,M,15,10-19yrs,1st,AZT/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,,,,No,,Completed,1,1,1 Month,Not screened,Never linked
+Rubirizi,Katereta HC III,M,17,10-19yrs,,AZT/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,90,3,3 Months,Not screened,NOT ENROLLED
+Rukiga,Bukinda HC III,F,14,10-19yrs,1ST,AZT/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,132,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,9,1-9yrs,1st,AZT/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kambuga HC IV,F,7,1-9yrs,1st,AZT/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,,3,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,14,10-19yrs,2nd,TDF-3TC-ATV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,19,10-19yrs,2,TDF-3TC-ATV/r,Opt,No,Updated,None suppressed,Yes,,N,Y,3,Yes,04/03/2021,Completed,120,3,2 Months,Screened and Eligible,NOT ENROLLED
+Rubirizi,Rugazi HC IV,M,19,10-19yrs,2nd,TDF-3TC-ATV/r,Opt,No,Updated,Suppressed,Yes,,,,,,,Never Initiated,4,3,3 Months,Not screened,Never linked
+Kanungu,Kambuga HC IV,F,17,10-19yrs,2nd,TDF-3TC-ATV/r,Opt,No,Updated,None suppressed,,,,,,No,,Completed,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kanungu HC IV,F,17,10-19yrs,1st,TDF-3TC-DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ruhoko HC IV,F,19,10-19yrs,1st,TDF-3TC-EFV,Not Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,30,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ishongororo HC IV,F,12,10-19yrs,1st,TDF-3TC-EFV,Not Opt,No,Updated,Suppressed,Yes,,N,,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Kikyekye HC IV,F,19,10-19yrs,1st,TDF-3TC-EFV,Not Opt,No,Updated,Suppressed,Yes,,,,,,,On INH,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,18,10-19yrs,1st,TDF-3TC-EFV,Not Opt,No,Updated,Suppressed,Yes,,,,,,,Completed,N,2,2 Months,Not screened,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,19,10-19yrs,1,TDF-3TC-EFV,Not Opt,No,Updated,Suppressed,Yes,,N,,,,,Completed,120,4,4 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,19,10-19yrs,1,TDF-3TC-EFV,Not Opt,No,Updated,Suppressed,Yes,,N,,,,,Completed,120,4,3 Months,Screened and Eligible,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,18,10-19yrs,1st,TDF-3TC-EFV,Not Opt,No,Updated,Suppressed,,,,,,,,Completed,1,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,11,10-19yrs,2ND,TDF/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,,Y,3,Yes,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,F,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,23/06/2021,Y,,,,,Never Initiated,30,2,1 Month,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,18,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,M,10,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,82,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,F,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,On INH,92,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,13,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,92,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,F,11,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,92,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Bufunda HC III,M,17,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,On INH,90,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,M,18,10-19yrs,2ND,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,Y,,,,Completed,90,3,2 Months,Not screened,NOT ENROLLED
+Ibanda,Bufunda HC III,F,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,On INH,90,3,2 Months,Not screened,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,2 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,9,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,9,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,150,5,5 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,,,,No,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,60,3,2 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,2 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,120,4,4 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,9,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,120,4,4 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,7,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,9,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,30,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,120,4,4 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,7,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,2 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,,30,1,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,2,2 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,120,4,4 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,,60,2,1 Month,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,60,2,2 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,4,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,2 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,17,10-19yrs,2nd,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,16,10-19yrs,2nd,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,60,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,17,10-19yrs,2nd,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,120,4,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,19,10-19yrs,2nd,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,120,4,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,14,10-19yrs,2nd,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,11,10-19yrs,2nd,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,19,10-19yrs,2nd,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,16,10-19yrs,2nd,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,F,18,10-19yrs,2nd,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,19,10-19yrs,2nd,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,,90,3,2 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ruhoko HC IV,M,14,10-19yrs,2nd,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ishongororo HC IV,M,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,30,0,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,Y,,,No,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,Y,,,No,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,30,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,Y,,,No,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ishongororo HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Kikyekye HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,N,0,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,F,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,N,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,,3,2 Months,Not screened,NOT ENROLLED
+Ibanda,Kikyekye HC IV,M,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,,1,1 Month,Not screened,NOT ENROLLED
+Ibanda,Ibanda Hosp,M,14,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,21/05/2021,y,,,,,Never Initiated,180,6,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,16,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,y,,,,,Never Initiated,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,15,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,y,,,,,Completed,120,4,4 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,9,1-9yrs,2,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,20/05/2021,y,y,,,,Completed,150,5,5 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,19,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,y,,,,,Completed,60,3,3 Months,Not screened,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,12,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,y,,,No,,Completed,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,11,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,21/05/2021,y,,,,,Completed,180,6,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,16,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,10/06/2021,y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,F,16,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,09/06/2021,y,,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Ibanda,Ibanda Hosp,M,19,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,y,,,,,Completed,90,3,3 Months,Screened and Eligible,NOT ENROLLED
+Ibanda,Ibanda Hosp,F,13,10-19yrs,1,TDF/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,y,,,No,,Never Initiated,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Isingiro,Rugaaga HC IV,M,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,2,2 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,2,2 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,2,2 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,7,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Isingiro,Rugaaga HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,1,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Isingiro,Rugaaga HC IV,M,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Isingiro,Rugaaga HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,1,2,2 Months,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,3,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,,,5,Yes,,Never Initiated,1,1,1 Month,Screened and Eligible,NOT ENROLLED
+Isingiro,Rugaaga HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,1,5,5 Months,Screened and Eligible,NOT ENROLLED
+Rubirizi,Rugazi HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,2,2,1 Month,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,6,6,6+ Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,3,3,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,6,6,5 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,9,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,6,6,5 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,4,4,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,4,4,4 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,6,5,5 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,5,5,5 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,4,4,4 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,4,4,4 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,3,4,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,2,2,2 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Never Initiated,4,4,4 Months,Not screened,Never linked
+Rubirizi,Rugazi HC IV,M,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,,,,No,,Never Initiated,3,3,3 Months,Not screened,Never linked
+Rubirizi,Katereta HC III,M,12,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,90,3,3 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,11,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,90,3,2 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,15,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,60,2,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,9,1-9yrs,,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,60,2,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,16,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,30,2,1 Month,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,M,8,1-9yrs,,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,60,2,2 Months,Not screened,NOT ENROLLED
+Rubirizi,Katereta HC III,F,12,10-19yrs,,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,50,2,1 Month,Not screened,NOT ENROLLED
+Rukiga,Bukinda HC III,F,17,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,NE,,,,Completed,90,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,16,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,NE,,,,Completed,120,4,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,16,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,NE,,,,TOXICITY OR SIDE-EFFECTS,180,6,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,17,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,30,142,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,TOXICITY OR SIDE-EFFECTS,30,142,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,NE,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,16,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,NE,,,,Completed,60,0,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,11,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,NE,,,,Never Initiated,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,15,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,120,159,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,15,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,150,146,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,16,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,NE,,,,Completed,60,2,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,16,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,60,149,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,19,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,NE,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,15,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,143,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,14,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,60,104,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,16,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,120,76,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,17,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,Y,NE,1,Yes,,Completed,30,1,1 Month,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,17,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,174,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,16,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,,30,164,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,13,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,90,131,6+ Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,17,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,NE,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,F,18,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,,,,,,Completed,60,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,15,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,NE,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Rukiga,Bukinda HC III,M,17,10-19yrs,1ST,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,NE,,,,Completed,90,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,,,,Never Initiated,4,4,3 Months,Screened and Eligible,NOT ENROLLED
+Kanungu,Kanungu HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,2,Yes,,,2,2,2 Months,Screened and Eligible,NOT ENROLLED
+Kanungu,Kanungu HC IV,F,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,,,,Never Initiated,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,2,Yes,,Never Initiated,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,2,Yes,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,2,Yes,,Never Initiated,3,3,2 Months,Screened and Eligible,NOT ENROLLED
+Kanungu,Kanungu HC IV,F,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,2,Yes,,Never Initiated,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,2,Yes,,Completed,2,2,2 Months,Screened and Eligible,NOT ENROLLED
+Kanungu,Kanungu HC IV,M,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,,,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,Y,2,Yes,,Completed,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,2,Yes,,Completed,4,4,4 Months,Screened and Eligible,NOT ENROLLED
+Kanungu,Kanungu HC IV,M,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,2,Yes,,Completed,3,3,2 Months,Screened and Eligible,NOT ENROLLED
+Kanungu,Kanungu HC IV,M,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,2,Yes,,Never Initiated,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,F,8,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,2,Yes,,Never Initiated,3,3,2 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kanungu HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,N,4,Yes,15/12/2020,On INH,3,3,3 Months,Screened and Eligible,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,13,10-19yrs,2nd,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,Y,,,,,2,2,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,Y,,1,Yes,,,1,1,1 Month,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,,2,2,2 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,,4,4,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,9,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,,6,6,6+ Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,M,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,,4,4,4 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,Yes,,Y,,,,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kihiihi HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,None suppressed,Yes,,Y,,1,Yes,,,3,3,3 Months,Not screened,Eligible Linked and Enrolled
+Kanungu,Kambuga HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,1,1,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,12,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,On INH,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,11,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,8,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,17,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,13,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,3,3,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,9,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,14,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,15,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,3,3,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,3,3,3 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,19,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,3,3,2 Months,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,16,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,9,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,8,1-9yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,M,10,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,Completed,2,2,1 Month,Not screened,NOT ENROLLED
+Kanungu,Kambuga HC IV,F,18,10-19yrs,1st,TDF/3TC/DTG,Opt,Yes,Updated,Suppressed,,,,,,,,On INH,2,2,1 Month,SCREENED AND NOT ELIGIBLE,NOT ENROLLED
